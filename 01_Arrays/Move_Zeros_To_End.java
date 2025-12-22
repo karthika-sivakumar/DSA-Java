@@ -2,16 +2,17 @@
 Approach: Two Pointer Technique (Move Zeros to End)
 
 - Pointer 'nonZero' is used to traverse the array
-- Pointer 'zero' keeps track of the position where the next non-zero element should be placed
+- Pointer 'zero' tracks the position where the next non-zero element should be placed
 - When nums[nonZero] is non-zero, it is swapped with nums[zero]
 - After placing a non-zero element, both pointers are incremented
-- If nums[nonZero] is zero, only the scanning pointer is incremented
+- If nums[nonZero] is zero, only the traversal pointer is incremented
 
 This preserves the order of non-zero elements and moves all zeros to the end.
 
 Time Complexity: O(n)
 Space Complexity: O(1)
 */
+
 
 class Solution {
     public void moveZeroes(int[] nums) {
