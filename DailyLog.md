@@ -72,5 +72,38 @@
 ### Notes
 - Two-pointer technique is efficient for array manipulation problems  
 - Stack is highly effective for problems involving previous state or history  
-- These problems are commonly asked in *coding rounds*
 
+---
+
+## 📅 24 Dec 2025
+
+### Topics Covered
+- Arrays  
+
+---
+
+### Problems Solved
+- Rotate Array (LeetCode)  
+- Remove Duplicates from Sorted Array (LeetCode)  
+
+---
+
+### Key Learnings
+- Rotate Array:
+  - Can be optimized using *reverse technique*
+  - Achieves *O(n)* time and *O(1)* extra space
+  - Involves reversing:
+    - Entire array
+    - First k elements
+    - Remaining elements  
+- Remove Duplicates from Sorted Array:
+  - Efficiently solved using *two-pointer technique*
+  - One pointer tracks unique elements
+  - In-place modification without extra space  
+- Sorted array property simplifies duplicate handling  
+
+---
+
+### Notes
+- Array rotation problems test understanding of index manipulation  
+- Two-pointer approach is widely used in array optimization problems  
