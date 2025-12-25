@@ -8,3 +8,5 @@ This folder contains array-related problems solved in Java.
 4. Rotate Array
 5. Remove Duplicates from Sorted Array
 6. Maximum Subarray
+7. Subarray Sum Equals K
+
