@@ -106,4 +106,26 @@
 
 ### Notes
 - Array rotation problems test understanding of index manipulation  
-- Two-pointer approach is widely used in array optimization problems  
+- Two-pointer approach is widely used in array optimization problems
+- 
+---
+
+## 📅 25 Dec 2025
+
+### Topics Covered
+Arrays
+
+### Problems Solved
+- Maximum Subarray  
+- Subarray Sum Equals K (brute force)
+
+### Key Learnings
+- For maximum subarray, I learned how Kadane’s algorithm works by keeping a running sum.
+- When the current sum becomes negative, it is better to reset it.
+- For subarray sum equals k, I used a brute force approach with two loops.
+- Brute force helps in understanding how subarrays are formed.
+- Time complexity for brute force solution is O(n²).
+
+### Notes
+- Kadane’s algorithm is an important concept for interviews.
+- Writing brute force first makes it easier to understand optimized solutions later.
