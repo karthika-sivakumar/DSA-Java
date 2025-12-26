@@ -129,3 +129,25 @@ Arrays
 ### Notes
 - Kadane’s algorithm is an important concept for interviews.
 - Writing brute force first makes it easier to understand optimized solutions later.
+
+---
+
+## 📅 26 Dec 2025
+
+### Topics Covered
+Stack
+
+### Problems Solved
+- Valid Parentheses  
+- Valid Parenthesis String  
+
+### Key Learnings
+- Stack helps in checking matching opening and closing brackets.
+- For valid parentheses, every opening bracket must have a correct closing one.
+- Order matters while popping elements from the stack.
+- Valid Parenthesis String is slightly tricky because of the wildcard *.
+- * can act as an opening bracket, closing bracket, or empty.
+- Understanding edge cases is important in bracket problems.
+
+### Notes
+- Stack is very useful for validation-type problems.
