@@ -146,7 +146,7 @@ Stack
 - For valid parentheses, every opening bracket must have a correct closing one.
 - Order matters while popping elements from the stack.
 - Valid Parenthesis String is slightly tricky because of the wildcard *.
-- * can act as an opening bracket, closing bracket, or empty.
+- '*' can act as an opening bracket, closing bracket, or empty.
 - Understanding edge cases is important in bracket problems.
 
 ### Notes
