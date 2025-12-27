@@ -151,3 +151,25 @@ Stack
 
 ### Notes
 - Stack is very useful for validation-type problems.
+
+---
+
+## 📅 27 Dec 2025
+
+### Topics Covered
+Stack  
+Monotonic Stack  
+
+### Problems Solved
+- Daily Temperatures  
+
+### Key Learnings
+- This problem uses a monotonic decreasing stack.
+- Stack stores indices instead of values.
+- When a higher temperature is found, previous indices are popped.
+- Difference between indices gives the number of days to wait.
+- If no warmer day exists, answer remains 0.
+
+### Notes
+- Monotonic stack is useful for next greater element type problems.
+
