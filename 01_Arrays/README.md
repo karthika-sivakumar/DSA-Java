@@ -9,4 +9,6 @@ This folder contains array-related problems solved in Java.
 5. Remove Duplicates from Sorted Array
 6. Maximum Subarray
 7. Subarray Sum Equals K
+8. Max Consecutive Ones
+9. Missing Number
 
