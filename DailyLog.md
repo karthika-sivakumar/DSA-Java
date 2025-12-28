@@ -173,3 +173,24 @@ Monotonic Stack
 ### Notes
 - Monotonic stack is useful for next greater element type problems.
 
+---
+
+## 📅 28 Dec 2025
+
+### Topics Covered
+Arrays  
+
+### Problems Solved
+- Max Consecutive Ones  
+- Missing Number  
+
+### Key Learnings
+- Max consecutive ones can be solved by counting continuous 1s and resetting the count when 0 appears.
+- A running count helps track the maximum length efficiently.
+- Missing number was solved using the sum of first n natural numbers formula.
+- Expected sum is calculated using n(n+1)/2 and compared with actual array sum.
+- This approach works in O(n) time with O(1) extra space.
+  
+### Notes
+- These problems help strengthen basic array traversal skills.
+- Simple logic and edge case handling are important.
