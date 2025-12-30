@@ -194,3 +194,46 @@ Arrays
 ### Notes
 - These problems help strengthen basic array traversal skills.
 - Simple logic and edge case handling are important.
+
+---
+
+## 📅 29 Dec 2025
+
+### Topics Covered
+Arrays
+
+### ✅ Problems Solved
+- Sort Colors
+
+### Key Learnings
+- The problem can be solved without using any built-in sorting function.
+- Using three pointers helps correctly place 0s, 1s, and 2s.
+- In-place swapping avoids extra space usage.
+- The solution runs in O(n) time with O(1) space complexity.
+
+### Notes
+- Careful pointer movement is important to prevent infinite loops.
+- This problem improves understanding of in-place array manipulation.
+
+---
+
+## 📅 30 Dec 2025
+
+### Topics Covered
+Arrays 
+Matrix
+
+### Problems Solved
+- Rotate Image
+- Matrix Diagonal Sum
+
+### Key Learnings
+- Matrix rotation can be done by first transposing the matrix and then reversing each row.
+- Diagonal elements can be accessed using simple index logic.
+- For odd-sized matrices, the middle element should not be counted twice.
+- In-place operations help reduce extra space usage.
+
+### Notes
+- Understanding index manipulation is important when working with matrices.
+
+
