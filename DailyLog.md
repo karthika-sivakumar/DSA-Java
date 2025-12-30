@@ -202,7 +202,7 @@ Arrays
 ### Topics Covered
 Arrays
 
-### ✅ Problems Solved
+### Problems Solved
 - Sort Colors
 
 ### Key Learnings
