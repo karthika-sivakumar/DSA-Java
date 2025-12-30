@@ -11,4 +11,5 @@ This folder contains array-related problems solved in Java.
 7. Subarray Sum Equals K
 8. Max Consecutive Ones
 9. Missing Number
+10. Sort Colors
 
