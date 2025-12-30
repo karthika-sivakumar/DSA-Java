@@ -12,4 +12,6 @@ This folder contains array-related problems solved in Java.
 8. Max Consecutive Ones
 9. Missing Number
 10. Sort Colors
+11. Rotate image
+12. Matrix Diagonal
 
