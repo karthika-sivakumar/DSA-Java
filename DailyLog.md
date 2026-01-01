@@ -236,4 +236,28 @@ Matrix
 ### Notes
 - Understanding index manipulation is important when working with matrices.
 
+---
+
+## 📅 1 Jan 2026
+
+### Topics Covered
+Strings 
+Hashing
+
+### Problems Solved
+- Valid Anagram  
+- Valid Palindrome  
+
+### Key Learnings
+- An anagram means two strings contain the same characters with the same frequency.
+- Character frequency can be tracked using a fixed-size array.
+- Two-pointer technique helps compare characters from both ends efficiently.
+- Non-alphanumeric characters should be skipped while checking for palindromes.
+- Converting characters to lowercase helps with case-insensitive comparison.
+
+### Notes
+- Frequency counting is useful for string comparison problems.
+- Two-pointer approach reduces extra space usage.
+- Careful pointer movement prevents incorrect comparisons.
+
 
