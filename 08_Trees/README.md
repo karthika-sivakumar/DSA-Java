@@ -5,3 +5,5 @@ This folder contains tree-related problems solved in Java.
 1. Maximum Depth of Binary Tree
 2. Minimum Depth of Binary Tree
 3. Symmetric Tree
+4. Search in BST
+5. Merge Two Binary Trees
