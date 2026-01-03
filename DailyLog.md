@@ -220,8 +220,8 @@ Arrays
 ## 📅 30 Dec 2025
 
 ### Topics Covered
-Arrays 
-Matrix
+- Arrays 
+- Matrix
 
 ### Problems Solved
 - Rotate Image
@@ -241,8 +241,8 @@ Matrix
 ## 📅 1 Jan 2026
 
 ### Topics Covered
-Strings 
-Hashing
+- Strings 
+- Hashing
 
 ### Problems Solved
 - Valid Anagram  
@@ -259,5 +259,53 @@ Hashing
 - Frequency counting is useful for string comparison problems.
 - Two-pointer approach reduces extra space usage.
 - Careful pointer movement prevents incorrect comparisons.
+
+---
+
+## 📅 2 Jan 2026
+
+### Topics Covered
+- Strings 
+- Binary Trees
+
+### Problems Solved
+- First Unique Character in a String
+- Maximum Depth of Binary Tree
+- Minimum Depth of Binary Tree
+- Symmetric Tree
+
+### Key Learnings
+- Character frequency can be stored using an array to find non-repeating characters.
+- Tree depth problems are solved using recursion.
+- Maximum depth uses max(left, right) while minimum depth needs careful null handling.
+- Symmetric trees can be checked by comparing left and right subtrees recursively.
+- Base cases are very important in recursive tree problems.
+
+### Notes
+- Using arrays for frequency counting is efficient when character range is fixed.
+- Recursive tree traversal becomes easier with clear base conditions.
+
+---
+
+## 📅 3 Jan 2026
+
+### Topics Covered
+- Binary Search Trees
+- Binary Trees
+
+### Problems Solved
+- Search in a Binary Search Tree
+- Merge Two Binary Trees
+
+### Key Learnings
+- Binary Search Tree properties help reduce the search space.
+- Recursive traversal makes tree operations simpler and clearer.
+- While searching in a BST, choosing left or right depends on value comparison.
+- Tree merging can be done by recursively combining corresponding nodes.
+- Handling null nodes correctly is important in tree problems.
+
+### Notes
+- Recursion stack space depends on the height of the tree.
+
 
 
