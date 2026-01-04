@@ -307,5 +307,25 @@ Arrays
 ### Notes
 - Recursion stack space depends on the height of the tree.
 
+---
+
+## 📅 4 Jan 2026
+
+### Topics Covered
+- Strings
+
+### Problems Solved
+- Length of Last Word
+
+### Key Learnings
+- Traversing a string from the end helps avoid unnecessary processing.
+- Trailing spaces need to be handled carefully in string problems.
+- Counting characters until a space is found identifies the last word.
+
+### Notes
+- Edge cases like multiple trailing spaces are important.
+- Scanning from the end is often useful in string-related problems.
+
+
 
 
