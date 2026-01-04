@@ -5,3 +5,4 @@ This folder contains string-related problems solved in Java.
 1. Valid Anagram
 2. Valid Palindrome
 3. First Unique Character in a String
+4. Length of Last word
