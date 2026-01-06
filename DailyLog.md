@@ -326,6 +326,42 @@ Arrays
 - Edge cases like multiple trailing spaces are important.
 - Scanning from the end is often useful in string-related problems.
 
+---
 
+## 📅 5 Jan 2026
+
+### Topics Covered
+- Binary Trees
+
+### Problems Solved
+- Binary Tree Inorder Traversal
+
+### Key Learnings
+- Inorder traversal visits nodes in the order: left subtree, root, and right subtree.
+- Tree traversal problems help build a strong foundation for binary tree concepts.
+- Recursion simplifies tree traversal problems.
+
+### Notes
+- Inorder traversal of a BST produces a sorted sequence.
+- Understanding traversal order is important for solving tree-related problems.
+
+---
+
+## 📅 6 Jan 2026
+
+### Topics Covered
+- Binary Trees
+
+### Problems Solved
+- Binary Tree Preorder Traversal
+- Binary Tree Postorder Traversal
+
+### Key Learnings
+- Preorder traversal processes the root before its subtrees.
+- Postorder traversal processes the root after both subtrees.
+- Recursive traversal follows a clear and consistent pattern.
+
+### Notes
+- Practicing different traversals improves confidence with recursion.
 
 
