@@ -364,4 +364,61 @@ Arrays
 ### Notes
 - Practicing different traversals improves confidence with recursion.
 
+---
+
+## 📅 7 Jan 2026
+
+### Topics Covered
+- Graphs
+
+### Problems Solved
+- Find the Town Judge
+
+### Key Learnings
+- A town judge trusts nobody but is trusted by everyone else.
+- Trust relationships can be tracked using two arrays.
+- One array counts outgoing trust, another counts incoming trust.
+- The judge will have 0 outgoing trust and (n − 1) incoming trust.
+
+### Notes
+- Separating in-degree and out-degree makes the logic clear.
+- This approach avoids using extra data structures like maps.
+
+---
+
+## 📅 8 Jan 2026
+
+### Topics Covered
+- Dynamic Programming
+
+### Problems Solved
+- Climbing Stairs
+
+### Key Learnings
+- The problem follows a Fibonacci pattern.
+- Each step depends on the previous two steps.
+- Using variables instead of an array reduces space usage.
+
+### Notes
+- Time complexity is O(n).
+- Space complexity is O(1) due to constant extra variables.
+
+---
+
+## 📅 9 Jan 2026
+
+### Topics Covered
+- Graphs
+
+### Problems Solved
+- Find Center of Star Graph
+
+### Key Learnings
+- In a star graph, the center node appears in every edge.
+- Comparing the first two edges is enough to identify the center.
+- No extra data structures are required.
+
+### Notes
+- This approach works in O(1) time.
+- Observing problem patterns can greatly simplify the solution.
 
