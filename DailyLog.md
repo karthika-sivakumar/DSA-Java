@@ -422,3 +422,43 @@ Arrays
 - This approach works in O(1) time.
 - Observing problem patterns can greatly simplify the solution.
 
+---
+
+## 📅 10 Jan 2026
+
+### Topics Covered
+- Greedy Algorithm
+
+### Problems Solved
+- Jump Game
+
+### Key Learnings
+- Greedy approach can be used to track the maximum reachable index.
+- If the current index goes beyond the maximum reach, the end is unreachable.
+- Updating the farthest reachable position avoids unnecessary checks.
+- Greedy solutions can be more efficient than dynamic programming.
+
+### Notes
+- Jump Game can also be solved using DP, but Greedy is optimal.
+- Tracking a single variable can replace extra memory usage.
+
+---
+
+## 📅 11 Jan 2026
+
+### Topics Covered
+- Graphs
+- Depth-First Search (DFS)
+
+### Problems Solved
+- Keys and Rooms
+
+### Key Learnings
+- Rooms and keys can be modeled as a graph.
+- Depth-First Search helps explore all reachable rooms.
+- A visited array is used to avoid revisiting rooms.
+- Starting DFS from room 0 ensures we check full accessibility.
+
+### Notes
+- DFS is useful for reachability problems.
+- Marking nodes as visited prevents infinite recursion.
