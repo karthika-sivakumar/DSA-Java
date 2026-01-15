@@ -462,3 +462,62 @@ Arrays
 ### Notes
 - DFS is useful for reachability problems.
 - Marking nodes as visited prevents infinite recursion.
+
+---
+
+## 📅 12 Jan 2026
+
+### Topics Covered
+- Arrays
+- Matrix Traversal
+
+### Problems Solved
+- Island Perimeter
+
+### Key Learnings
+- Each land cell contributes 4 to the perimeter.
+- Shared edges between adjacent land cells should be subtracted.
+- Checking only top and left neighbors avoids double counting.
+- A simple matrix traversal can solve the problem without DFS or BFS.
+
+### Notes
+- Careful boundary checks are important in 2D arrays.
+- This approach works efficiently in a single pass.
+
+---
+
+## 📅 13 Jan 2026
+
+### Topics Covered
+- Arrays
+
+### Problems Solved
+- Two Sum
+
+### Key Learnings
+- Brute-force approach checks all possible pairs.
+- Nested loops help compare each element with the rest.
+- Returning early improves performance once the target is found.
+
+### Notes
+- This solution is easy to understand and good for learning.
+- Optimized approaches can be explored later using hashing.
+
+---
+
+## 📅 14 Jan 2026
+
+### Topics Covered
+- Arrays
+
+### Problems Solved
+- Concatenation of Array
+
+### Key Learnings
+- Creating a new array helps store repeated elements.
+- Index offset (`i + n`) is useful when working with extended arrays.
+- Simple loops can solve problems efficiently without extra logic.
+
+### Notes
+- Understanding array indexing is important for such problems.
+- This problem reinforces basic array manipulation.
