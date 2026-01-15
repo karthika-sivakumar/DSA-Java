@@ -521,3 +521,29 @@ Arrays
 ### Notes
 - Understanding array indexing is important for such problems.
 - This problem reinforces basic array manipulation.
+
+---
+
+## 📅 15 Jan 2026
+
+### Topics Covered
+- Arrays
+- Two-Pointer Technique
+
+### Problems Solved
+- Remove Element
+
+### Key Learnings
+- Two-pointer technique helps filter elements in-place.
+- The array size remains unchanged, but only the first `k` elements are considered valid.
+- Returning the count of valid elements satisfies the problem requirement.
+
+### GitHub Work
+- Added solution for Remove Element.
+- Reorganized folders by moving Island Perimeter from Graphs to Arrays
+  to better reflect the approach used.
+- Updated comments for better clarity.
+
+### Notes
+- Understanding problem constraints avoids incorrect assumptions.
+- Clean repository structure helps with revision and learning.
