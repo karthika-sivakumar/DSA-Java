@@ -547,3 +547,23 @@ Arrays
 ### Notes
 - Understanding problem constraints avoids incorrect assumptions.
 - Clean repository structure helps with revision and learning.
+
+---
+
+## 📅 16 Jan 2026
+
+### Topics Covered
+- Arrays
+- Prefix Sum
+
+### Problems Solved
+- Running Sum of 1d Array
+
+### Key Learnings
+- Prefix sum helps compute cumulative values efficiently.
+- In-place modification reduces extra space usage.
+- Each element depends on the previous computed sum.
+
+### Notes
+- This problem strengthens understanding of cumulative operations.
+- Simple loops can solve many array problems optimally.
