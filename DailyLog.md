@@ -567,3 +567,21 @@ Arrays
 ### Notes
 - This problem strengthens understanding of cumulative operations.
 - Simple loops can solve many array problems optimally.
+
+---
+
+## 📅 17 Jan 2026
+
+### Topics Covered
+- Arrays
+
+### Problems Solved
+- Plus One
+
+### Key Learnings
+- Carry handling is important when working with digits.
+- Iterating from right to left simplifies addition problems.
+- Edge cases like all digits being 9 need special handling.
+
+### Notes
+- Learned when to modify the array in-place vs creating a new array.
