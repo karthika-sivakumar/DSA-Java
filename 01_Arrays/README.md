@@ -19,3 +19,4 @@ This folder contains array-related problems solved in Java.
 15. Island Perimeter
 16. Remove Element
 17. Running Sum of 1D Array
+18. Plus One
