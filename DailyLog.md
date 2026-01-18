@@ -585,3 +585,22 @@ Arrays
 
 ### Notes
 - Learned when to modify the array in-place vs creating a new array.
+
+---
+
+## 📅 18 Jan 2026
+
+### Topics Covered
+- Strings
+- ASCII character manipulation
+
+### Problems Solved
+- To Lower Case
+
+### Key Learnings
+- Characters can be converted using ASCII values.
+- Converting a string to a char array allows in-place modification.
+- Simple loops can replace built-in functions when needed.
+
+### Notes
+- Useful for understanding how character encoding works internally.
