@@ -604,3 +604,22 @@ Arrays
 
 ### Notes
 - Useful for understanding how character encoding works internally.
+
+---
+
+## 📅 19 Jan 2026
+
+### Topics Covered
+- Strings
+- Two Pointers
+
+### Problems Solved
+- Reverse Words in a String III
+
+### Key Learnings
+- Word boundaries can be detected using spaces.
+- Two-pointer technique is effective for in-place string reversal.
+- Helper methods improve code readability and reuse.
+
+### Notes
+- Converting strings to char arrays allows efficient in-place operations.
