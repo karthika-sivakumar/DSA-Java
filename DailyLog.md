@@ -623,3 +623,23 @@ Arrays
 
 ### Notes
 - Converting strings to char arrays allows efficient in-place operations.
+
+---
+
+## 📅 26 Jan 2026
+
+### Topics Covered
+- Strings
+- Hashing (Character Mapping)
+
+### Problems Solved
+- Isomorphic Strings
+
+### Key Learnings
+- Character mapping helps compare patterns between strings.
+- Using last-seen indices avoids extra data structures.
+- Index + 1 prevents collision with default zero values.
+
+### Notes
+- One-to-one mapping is required for strings to be isomorphic.
+- Fixed-size arrays are efficient when character range is known.
