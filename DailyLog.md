@@ -643,3 +643,23 @@ Arrays
 ### Notes
 - One-to-one mapping is required for strings to be isomorphic.
 - Fixed-size arrays are efficient when character range is known.
+
+---
+
+## 📅 27 Jan 2026
+
+### Topics Covered
+- Strings
+
+### Problems Solved
+- Largest Odd Number in String
+
+### Key Learnings
+- Oddness of a number depends only on its last digit.
+- Traversing from the end helps find the maximum valid substring.
+- Handling leading zeros is important in string-based number problems.
+
+### Notes
+- String manipulation avoids integer overflow issues.
+- Edge cases like no odd digit must be handled.
+
