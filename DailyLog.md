@@ -663,3 +663,22 @@ Arrays
 - String manipulation avoids integer overflow issues.
 - Edge cases like no odd digit must be handled.
 
+---
+
+## 📅 28 Jan 2026
+
+### Topics Covered
+- Strings
+- Stack Concept (using counter)
+
+### Problems Solved
+- Maximum Nesting Depth of the Parentheses
+
+### Key Learnings
+- Parentheses depth can be tracked using a simple counter.
+- Maximum value during traversal represents nesting depth.
+- Stack behavior can be simulated without an actual stack.
+
+### Notes
+- Counter-based solutions reduce space usage.
+- Careful increment and decrement prevents incorrect depth calculation.
