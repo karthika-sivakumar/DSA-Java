@@ -682,3 +682,22 @@ Arrays
 ### Notes
 - Counter-based solutions reduce space usage.
 - Careful increment and decrement prevents incorrect depth calculation.
+
+---
+
+## 📅 29 Jan 2026
+
+### Topics Covered
+- Strings
+
+### Problems Solved
+- Rotate String
+
+### Key Learnings
+- String rotation can be simulated using substring operations.
+- Checking all rotations ensures correctness.
+- Length mismatch is a quick rejection condition.
+
+### Notes
+- This solution is easy to understand but not the most optimal.
+- Optimization is possible using string concatenation and search.
