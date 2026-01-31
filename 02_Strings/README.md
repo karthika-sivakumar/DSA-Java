@@ -12,3 +12,4 @@ This folder contains string-related problems solved in Java.
 8. Largest Odd Number in String
 9. Maximum nesting depth of the parentheses
 10. Rotate String
+11. Find the Index of the First Occurrence of the String
