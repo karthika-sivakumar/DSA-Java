@@ -701,3 +701,23 @@ Arrays
 ### Notes
 - This solution is easy to understand but not the most optimal.
 - Optimization is possible using string concatenation and search.
+
+---
+
+## 📅 31 Jan 2026
+
+### Topics Covered
+- Strings
+- Two Pointers
+
+### Problems Solved
+- Find the Index of the First Occurrence in a String
+
+### Key Learnings
+- Substring search can be implemented using pointer manipulation.
+- Resetting pointers correctly is crucial to avoid missing matches.
+- Handling edge cases like an empty needle is important.
+
+### Notes
+- This is a brute-force approach.
+- More optimized solutions like KMP exist but are more complex.
