@@ -13,3 +13,4 @@ This folder contains string-related problems solved in Java.
 9. Maximum nesting depth of the parentheses
 10. Rotate String
 11. Find the Index of the First Occurrence of the String
+12. Reverse Vowels of a String
