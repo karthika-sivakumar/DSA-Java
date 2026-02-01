@@ -721,3 +721,22 @@ Arrays
 ### Notes
 - This is a brute-force approach.
 - More optimized solutions like KMP exist but are more complex.
+
+---
+
+## 📅 1 Feb 2026
+### Topics Covered
+- Strings
+- Two Pointers
+
+### Problems Solved
+- Reverse Vowels of a String
+
+### Key Learnings
+- Two-pointer technique helps process strings from both ends efficiently.
+- Checking membership using a vowel set simplifies logic.
+- In-place modification using a char array improves performance.
+
+### Notes
+- This problem strengthens two-pointer pattern recognition.
+- Careful pointer movement avoids unnecessary swaps.
