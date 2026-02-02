@@ -740,3 +740,22 @@ Arrays
 ### Notes
 - This problem strengthens two-pointer pattern recognition.
 - Careful pointer movement avoids unnecessary swaps.
+
+---
+
+## 📅 2 Feb 2026
+### Topics Covered
+- Linked Lists
+- Two Pointers
+
+### Problems Solved
+- Merge Two Sorted Lists
+
+### Key Learnings
+- Two pointers help merge sorted lists efficiently.
+- Comparing nodes one by one maintains sorted order.
+- Start node simplifies linked list construction.
+
+### Notes
+- This problem reinforces basic linked list manipulation.
+- Careful pointer movement prevents losing node references.
