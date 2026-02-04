@@ -759,3 +759,21 @@ Arrays
 ### Notes
 - This problem reinforces basic linked list manipulation.
 - Careful pointer movement prevents losing node references.
+
+---
+
+## 📅 4 Feb 2026
+
+### Topics Covered
+- Linked Lists
+
+### Problems Solved
+- Remove Duplicates from Sorted List
+
+### Key Learnings
+- Sorted lists make duplicate removal straightforward.
+- Pointer manipulation is key in linked list problems.
+- In-place updates avoid extra memory usage.
+
+### Notes
+- Always check the next node before accessing it.
