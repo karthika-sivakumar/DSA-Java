@@ -777,3 +777,25 @@ Arrays
 
 ### Notes
 - Always check the next node before accessing it.
+
+---
+
+## 📅 5 Feb 2026
+
+### Topics Covered
+- Linked Lists
+- Two Pointers
+
+### Problems Solved
+- Linked List Cycle
+- Middle of the Linked List
+- Remove Nth Node From End of List
+
+### Key Learnings
+- Two-pointer technique is very useful in linked list problems.
+- Fast and slow pointers help detect cycles and find middle elements.
+- Using a dummy node simplifies edge cases in linked list deletion problems.
+
+### Notes
+- One-pass solutions improve efficiency.
+- Careful pointer movement prevents null pointer errors.
