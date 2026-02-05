@@ -5,3 +5,4 @@ This folder contains linkedlist-related problems solved in Java.
 1. Merge Two Sorted Lists
 2. Remove Duplicates from Sorted List
 3. Linked List Cycle
+4. Middle of the Linked List
