@@ -799,3 +799,22 @@ Arrays
 ### Notes
 - One-pass solutions improve efficiency.
 - Careful pointer movement prevents null pointer errors.
+
+---
+
+## 📅 6 Feb 2026
+
+### Topics Covered
+- Linked Lists
+
+### Problems Solved
+- Delete Node in a Linked List
+
+### Key Learnings
+- When the head is not accessible, the node can be deleted by copying the next node’s value.
+- Updating the current node’s pointer effectively removes the next node.
+- This problem works only when the given node is not the tail.
+
+### Notes
+- This is a special linked list case with constant time deletion.
+- Understanding constraints is crucial before choosing an approach.
