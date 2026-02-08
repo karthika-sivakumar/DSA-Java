@@ -818,3 +818,22 @@ Arrays
 ### Notes
 - This is a special linked list case with constant time deletion.
 - Understanding constraints is crucial before choosing an approach.
+
+---
+
+## 📅 8 Feb 2026
+
+### Topics Covered
+- Linked Lists
+
+### Problems Solved
+- Remove Duplicates from Sorted List II
+
+### Key Learnings
+- Dummy nodes help handle edge cases like duplicate values at the head.
+- Using two pointers allows skipping all occurrences of duplicate values.
+- Sorted linked lists make it easier to detect duplicates.
+
+### Notes
+- Carefully updating pointers prevents losing parts of the list.
+- This problem is different from removing single duplicates and requires skipping all repeated values.
