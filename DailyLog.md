@@ -837,3 +837,22 @@ Arrays
 ### Notes
 - Carefully updating pointers prevents losing parts of the list.
 - This problem is different from removing single duplicates and requires skipping all repeated values.
+
+---
+
+## 📅 9 Feb 2026
+
+### Topics Covered
+- Linked Lists
+
+### Problems Solved
+- Rotate List
+
+### Key Learnings
+- Circular linked lists help simplify rotation problems.
+- Modulo operation avoids unnecessary rotations.
+- Careful pointer updates are required to prevent cycles.
+
+### Notes
+- Edge cases like empty list and k = 0 must be handled first.
+- This problem strengthens pointer manipulation skills.
