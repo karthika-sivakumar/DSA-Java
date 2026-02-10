@@ -10,4 +10,6 @@ This folder contains linkedlist-related problems solved in Java.
 6. Delete Node in a Linked List
 7. Remove Duplicates from Sorted List II
 8. Rotate List
+9. Convert Sorted List to Binary Search Tree
+
 
