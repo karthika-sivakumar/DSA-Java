@@ -856,3 +856,24 @@ Arrays
 ### Notes
 - Edge cases like empty list and k = 0 must be handled first.
 - This problem strengthens pointer manipulation skills.
+
+---
+
+## 📅 10 Feb 2026
+
+### Topics Covered
+- Linked Lists
+- Binary Trees
+- Recursion
+
+### Problems Solved
+- Convert Sorted List to Binary Search Tree
+
+### Key Learnings
+- Slow and fast pointers help find the middle element efficiently.
+- Recursion is useful for divide-and-conquer problems.
+- Breaking the list is necessary to avoid infinite recursion.
+
+### Notes
+- This approach builds a height-balanced BST.
+- Understanding base cases is crucial in recursive solutions.
