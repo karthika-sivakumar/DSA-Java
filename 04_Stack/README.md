@@ -7,4 +7,5 @@ This folder contains stack-related problems solved in Java.
 3. Valid Parentheses
 4. Valid Parenthesis
 5. Daily Temperatures
+6. Clear Digits
 
