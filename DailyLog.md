@@ -877,3 +877,62 @@ Arrays
 ### Notes
 - This approach builds a height-balanced BST.
 - Understanding base cases is crucial in recursive solutions.
+
+---
+
+## 📅 11 Feb 2026
+
+### Topics Covered
+- Strings
+- Stack
+
+### Problems Solved
+- Clear Digits
+
+### Key Learnings
+- Stack helps in removing the most recent element efficiently.
+- Digits can be used as signals to remove previous characters.
+- StringBuilder is useful for constructing the final result.
+
+### Notes
+- Stack follows LIFO which is useful for "remove previous element" type problems.
+- Always check if stack is empty before popping to avoid errors.
+
+---
+
+## 📅 12 Feb 2026
+
+### Topics Covered
+- Linked Lists
+
+### Problems Solved
+- Remove Linked List Elements
+
+### Key Learnings
+- Dummy node helps handle edge cases like deleting the head.
+- Traversing using current pointer allows safe modification of links.
+- Skipping nodes is done by updating next pointers.
+
+### Notes
+- Using a dummy node simplifies logic and avoids null checks for head.
+- Always move the pointer only when no deletion happens.
+
+---
+
+## 📅 14 Feb 2026
+
+### Topics Covered
+- Linked Lists
+- Two Pointers
+
+### Problems Solved
+- Palindrome Linked List
+
+### Key Learnings
+- Linked list values can be stored in an array for easier processing.
+- Two-pointer technique helps compare elements from both ends.
+- .equals() is used for comparing Integer values.
+
+### Notes
+- This approach uses extra space but is simple to implement.
+- Can be optimized further using slow/fast pointer and reversal.
