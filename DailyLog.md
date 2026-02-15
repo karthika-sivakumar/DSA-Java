@@ -936,3 +936,22 @@ Arrays
 ### Notes
 - This approach uses extra space but is simple to implement.
 - Can be optimized further using slow/fast pointer and reversal.
+
+---
+
+## 📅 15 Feb 2026
+
+### Topics Covered
+- Stack
+
+### Problems Solved
+- Validate Stack Sequences
+
+### Key Learnings
+- Stack can be used to simulate real push/pop operations.
+- Matching top of stack with another sequence helps validate order.
+- Greedy-like simulation works efficiently for sequence problems.
+
+### Notes
+- Always check stack is not empty before accessing top.
+- This problem is about simulation rather than actual stack constraints.
