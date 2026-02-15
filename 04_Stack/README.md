@@ -8,4 +8,6 @@ This folder contains stack-related problems solved in Java.
 4. Valid Parenthesis
 5. Daily Temperatures
 6. Clear Digits
+7. Validate Stack Sequences
+
 
