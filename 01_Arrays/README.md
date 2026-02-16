@@ -20,3 +20,5 @@ This folder contains array-related problems solved in Java.
 16. Remove Element
 17. Running Sum of 1D Array
 18. Plus One
+19. Search Insert Position
+
