@@ -955,3 +955,22 @@ Arrays
 ### Notes
 - Always check stack is not empty before accessing top.
 - This problem is about simulation rather than actual stack constraints.
+
+---
+
+## 📅 16 Feb 2026
+
+### Topics Covered
+- Arrays
+
+### Problems Solved
+- Search Insert Position
+
+### Key Learnings
+- Sorted arrays allow early stopping when condition is met.
+- Linear scan can solve insertion position without binary search.
+- Understanding problem constraints helps choose simpler solutions.
+
+### Notes
+- Binary search can optimize this to O(log n).
+- This approach is easier to implement and understand.
